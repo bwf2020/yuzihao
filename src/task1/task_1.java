@@ -23,6 +23,7 @@ public class task_1 {
 		while(start<=end) {
 
 			int mid = (start+end)/2;
+			System.out.println(mid);
 
 			if(array[mid]==targe) {
 
